@@ -15,4 +15,4 @@ The main branch is using a pacejka tire model to simulate the cars physics.
 # Results
 This work resulted in a ROS node that was enabling the racing car to reach speeds up to 6 m/s while racing autonomously. 
 
-<img src="https://github.com/patricpa/f110-mppc/docs/mpc-curv-result.png" width="700" />
+<img src="https://github.com/patricpa/f110-mppc/blob/master/docs/mpc-curv-result.png" width="700" />
